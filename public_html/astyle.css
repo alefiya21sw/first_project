@@ -1,0 +1,39 @@
+
+           h1{
+                font-family: 'Festive', cursive;
+                font-size: 45px;
+            }
+            body{
+                max-width: 1200px;
+                padding:20px;
+                font-family: 'Roboto', sans-serif;
+                color:#bf00ff;
+                background-color:#000000    
+            }
+            
+            .list_box{
+                overflow:hidden;
+                width:100%;
+                
+            }
+            .box{
+                float:left;
+                width:50%;
+                display:inline-block;
+            }
+            #right{
+                float:right;
+                max-width:400px;
+                padding:0;
+                border:none;
+            }
+           
+/*To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 4, 2021, 6:08:04 PM
+    Author     : alefi
+*/
+
